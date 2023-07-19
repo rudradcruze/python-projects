@@ -2,7 +2,7 @@
 **Description:** A simple python projects that take city as a input from user fetch data from a free weather api then red out.
 
 ## Demo
-![Robo Speaker](../images/weather-app.png)
+![Robo Speaker](../images/weather-app.gif)
 
 ## About Me
 Tech-savvy designer/programmer pushing boundaries of online tech. Passionate about new tools, seeking challenges to advance skills.
