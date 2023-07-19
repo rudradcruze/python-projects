@@ -25,6 +25,9 @@ Python is a versatile and powerful programming language, and through this reposi
 2. **Project 3:** Image Resizer
     * Description: In this simple project we take image as an input and try to upscale or downscale with the certain percentage by using the opencv module.
     * [Code: image-resizer](/image-resizer/)
+2. **Project 4:** PDF Merger
+    * Description: A simple program to merge more than one pdf.
+    * [Code: image-resizer](/pdf-merger/)
 
 ## Usage
 You are welcome to explore, use, and modify any of the projects in this repository for educational and personal purposes. Each project has its own dedicated folder with a README file that explains its usage and how to run the code.
