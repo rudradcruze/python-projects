@@ -18,10 +18,13 @@ Python is a versatile and powerful programming language, and through this reposi
 ## Project List
 1. **Project 1:** Robo Speaker Windows
     * Description: In this simple basic project all you need to just put a string or message and it will speak it or pronounce it. It is created for windows. Hope You Like it.
-    * [Code: robo-speaker-windows](/robo-speaker-windows)
+    * [Code: robo-speaker-windows](/robo-speaker-windows/)
 2. **Project 2:** Weather Application
     * Description: A simple python projects that take city as a input from user fetch data from a free weather api then red out.
     * [Code: weather-app](/weather-app/)
+2. **Project 3:** Image Resizer
+    * Description: In this simple project we take image as an input and try to upscale or downscale with the certain percentage by using the opencv module.
+    * [Code: image-resizer](/image-resizer/)
 
 ## Usage
 You are welcome to explore, use, and modify any of the projects in this repository for educational and personal purposes. Each project has its own dedicated folder with a README file that explains its usage and how to run the code.
