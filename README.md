@@ -30,7 +30,7 @@ Python is a versatile and powerful programming language, and through this reposi
     * [Code: pdf-merger](/pdf-merger/)
 4. **Project 5:** Face Recognition Attendance System
     * Description: A project that matches the faces and record the attendance.
-    * [Code: pdf-merger](/face-recognition-attendance/)
+    * [Code: face-recognition-attendance](/face-recognition-attendance/)
 
 ## Usage
 You are welcome to explore, use, and modify any of the projects in this repository for educational and personal purposes. Each project has its own dedicated folder with a README file that explains its usage and how to run the code.
