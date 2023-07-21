@@ -22,12 +22,15 @@ Python is a versatile and powerful programming language, and through this reposi
 2. **Project 2:** Weather Application
     * Description: A simple python projects that take city as a input from user fetch data from a free weather api then red out.
     * [Code: weather-app](/weather-app/)
-2. **Project 3:** Image Resizer
+3. **Project 3:** Image Resizer
     * Description: In this simple project we take image as an input and try to upscale or downscale with the certain percentage by using the opencv module.
     * [Code: image-resizer](/image-resizer/)
-2. **Project 4:** PDF Merger
+4. **Project 4:** PDF Merger
     * Description: A simple program to merge more than one pdf.
-    * [Code: image-resizer](/pdf-merger/)
+    * [Code: pdf-merger](/pdf-merger/)
+4. **Project 5:** Face Recognition Attendance System
+    * Description: A project that matches the faces and record the attendance.
+    * [Code: pdf-merger](/face-recognition-attendance/)
 
 ## Usage
 You are welcome to explore, use, and modify any of the projects in this repository for educational and personal purposes. Each project has its own dedicated folder with a README file that explains its usage and how to run the code.
